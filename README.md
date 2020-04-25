@@ -4,4 +4,4 @@ This project explores differences in prices charged for various services between
 
 Data is derived from the Medicare Provider Utilization and Payment [dataset](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier).
 
-This work was conducted for a final project in a course on health care economics.
+This work was conducted for a final project in a course on health care economics in Fall 2017.
