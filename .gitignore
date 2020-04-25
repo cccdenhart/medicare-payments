@@ -1,1 +1,3 @@
+# caches
 *.docx
+.DS_STORE
